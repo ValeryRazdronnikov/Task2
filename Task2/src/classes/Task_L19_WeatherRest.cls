@@ -8,6 +8,7 @@ public class Task_L19_WeatherRest {
         }
 
         @AuraEnabled
+
         public List<Weather> temperatures {
             get;
             set;
